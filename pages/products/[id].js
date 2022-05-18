@@ -10,6 +10,6 @@ export default function Product() {
     //where requeset to backend API goes
 
     return (
-        <div>{productId}</div>
+        <h1>{productId}</h1>
     )
 }
