@@ -6,7 +6,7 @@ export default function Home() {
       <Head>
         <title>My Next App</title>
       </Head>
-      
+      <h2>Welcome to Next</h2>
     </div>
   )
 }

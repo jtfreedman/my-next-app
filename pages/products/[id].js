@@ -7,7 +7,9 @@ export default function Product() {
     
     const productId = router.query.id;
 
+    //where requeset to backend API goes
+
     return (
-        <div></div>
+        <div>{productId}</div>
     )
 }
